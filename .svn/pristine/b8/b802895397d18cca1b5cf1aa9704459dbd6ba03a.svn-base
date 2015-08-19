@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 110673aeb7b401f942c31154e013c19c684fcc11 cfair <cfair@hach.com> 1403812454 -0600	clone: from https://github.com/xolox/vim-easytags.git
+110673aeb7b401f942c31154e013c19c684fcc11 b0a902d2e573af980ebaa2be1a501ffb59a96fcf cfair <cfair@hach.com> 1408709031 -0600	commit: modified: README.md
+b0a902d2e573af980ebaa2be1a501ffb59a96fcf 6f5286cbf605596b4a5ddf645f5f8705a18fc715 cfair <cfair@hach.com> 1408709420 -0600	commit (merge): Merge branch 'master' of https://github.com/xolox/vim-easytags
+6f5286cbf605596b4a5ddf645f5f8705a18fc715 364cfcc514f1cd3386221aaa79bf9f12b85b6574 cfair <cfair@hach.com> 1408709453 -0600	checkout: moving from master to 364cfcc514f1cd3386221aaa79bf9f12b85b6574
+364cfcc514f1cd3386221aaa79bf9f12b85b6574 6f5286cbf605596b4a5ddf645f5f8705a18fc715 cfair <cfair@hach.com> 1408709482 -0600	rebase: checkout master
+6f5286cbf605596b4a5ddf645f5f8705a18fc715 6f5286cbf605596b4a5ddf645f5f8705a18fc715 cfair <cfair@hach.com> 1408709507 -0600	checkout: moving from 6f5286cbf605596b4a5ddf645f5f8705a18fc715 to master

@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/basiclinuxbox/scripts'
+let g:netrw_dirhist_2='/home/basiclinuxbox/projects/AMC_Analyzer_Software_New/DoxyFiles'
+let g:netrw_dirhist_3='/home/basiclinuxbox/projects/GrandCentral/DoxyFiles'
+let g:netrw_dirhist_4='/home/pi/.subversion/auth/svn.simple'
+let g:netrw_dirhist_5='/home/christopher/Linux'
+let g:netrw_dirhist_6='/usr/local/share/ca-certificates'
+let g:netrw_dirhist_7='/home/cfair/Development/crossSabreLite/output/images/filesystem/run'
+let g:netrw_dirhist_8='/home/cfair/Scripts/database'

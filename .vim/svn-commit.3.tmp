@@ -1,0 +1,27 @@
+Updating my vim stuff
+
+--This line, and those below, will be ignored--
+
+M    bundle/vim-easytags/.git/hooks/pre-commit.sample
+M    bundle/vim-easytags/.git/index
+M    bundle/vim-easytags/.git/logs/HEAD
+M    bundle/vim-easytags/.git/logs/refs/heads/master
+M    bundle/vim-easytags/.git/logs/refs/remotes/origin/HEAD
+M    bundle/vim-easytags/.git/packed-refs
+M    bundle/vim-easytags/.git/refs/heads/master
+M    bundle/vim-easytags/README.md
+M    bundle/vim-easytags/autoload/xolox/easytags.vim
+M    bundle/vim-easytags/doc/easytags.txt
+M    bundle/vim-easytags/misc/easytags/highlight.py
+M    bundle/vim-misc/.git/hooks/pre-commit.sample
+M    bundle/vim-misc/.git/index
+M    bundle/vim-misc/.git/logs/HEAD
+M    bundle/vim-misc/.git/logs/refs/heads/master
+M    bundle/vim-misc/.git/logs/refs/remotes/origin/HEAD
+M    bundle/vim-misc/.git/packed-refs
+M    bundle/vim-misc/.git/refs/heads/master
+M    bundle/vim-misc/README.md
+M    bundle/vim-misc/autoload/xolox/misc/timer.vim
+M    bundle/vim-misc/autoload/xolox/misc.vim
+M    bundle/vim-misc/doc/misc.txt
+M    bundle/vim-misc/doc/tags
